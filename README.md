@@ -60,7 +60,7 @@
 
 ### 📫 Contact
 - GitHub: [valueyou24](https://github.com/valueyou24)
-- Email: valueyou24@foxmail.com / hehang@mail.scuec.edu.cn*(add your academic email here)*
+- Email: valueyou24@foxmail.com / hehang@mail.scuec.edu.cn
 
 ---
 
