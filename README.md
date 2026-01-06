@@ -33,7 +33,7 @@
 
 ### 🏆 Honors & Awards
 - 🥇 National Scholarship  
-- 🥇 Zanglong Student Scholarship (First-Class)  
+- 🥇 Canglong Student Scholarship (First-Class)  
 - 🏅 Outstanding Student Model Award (“Three Strengths & Three Practices”)  
 - 🥈 Blue Bridge Cup Provincial Second Prize  
 - 🥈 Third “WA” Programming Contest (University-Level Second Prize)  
