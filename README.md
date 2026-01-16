@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hang (Hang He)
+## Hi there 👋 I'm Hang
 
 🎓 **M.S. Student in Computer Technology**  
 🔬 **Research Focus**: Deep Learning for Medical Image Analysis (Esophageal Cancer Detection)  
